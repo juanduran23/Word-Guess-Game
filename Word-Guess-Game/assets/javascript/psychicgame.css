@@ -1,0 +1,27 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.text-block {
+    
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    width: 100%;
+}
+
+.text-block {
+    font-size: 40px;
+    text-shadow: 1px 1px grey;
+}
+
+h1 {
+    font-size: 50px
+}
+
+.small {
+    font-size: 30px;
+}
